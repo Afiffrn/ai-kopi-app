@@ -1,7 +1,8 @@
 import streamlit as st
 import joblib
 
-st.title(" Sistem Sortir Kopi Otomstid v3")
+st.title("🏭 Sistem Sortir Kopi Otomatis v3")
+st.write("Update: Versi Stabil dengan Sinkronisasi Cloud Ekspor.")
 st.write(" Selamat datang di panel kendali  AI pabrik, silahkan sesuaikan sensor dibawah untuk menyortir kualitas biji kopi secara instan. ")
 st.markdown("---")
 
